@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gitasd
-- 👀 I’m interested in Python, C, Java, HTML and CSS. 
+- 👀 I’m interested in C, Python Java, HTML and CSS. 
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Python projects.
 - 📫 You can reach me on @ig_redfeet on instagram.
